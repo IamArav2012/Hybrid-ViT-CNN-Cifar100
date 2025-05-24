@@ -12,8 +12,8 @@ This repository contains the code to a fully functional Deep Learning Model that
 
 ## Requirements / Installations
 - Need Tensorflow compatible Python [(3.9 ≤ Python ≤ 3.12)](https://www.python.org/downloads/)
-- Need Tensorflow, Keras, Numpy, and Sklearn libraries
-(```pip install tensorflow keras numpy scikit-learn```)
+- Need Tensorflow, Keras, Numpy, and Sklearn libraries 
+(```pip install tensorflow keras numpy scikit-learn``` or ```pip install -r requirements.txt```)
 - Optional (recommended): A virtual environment
 
 ## Usage
