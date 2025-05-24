@@ -14,7 +14,7 @@ This repository contains the code to a fully functional Deep Learning Model that
 - Need Tensorflow compatible Python [(3.9 ≤ Python ≤ 3.12)](https://www.python.org/downloads/)
 - Need Tensorflow, Keras, Numpy, and Sklearn libraries 
 (```pip install tensorflow keras numpy scikit-learn``` or ```pip install -r requirements.txt```)
-- Optional (recommended): A virtual environment
+- Optional (recommended): A Virtual Environment
 
 ## Usage
 _Requirements have to be fulfilled beforehand._ 
@@ -33,4 +33,5 @@ Licensed under the [**MIT License**](https://github.com/IamArav2012/Hybrid-ViT-C
 ## Acknowledgments
 This model was written using the CIFAR-100 dataset. Guidance and code structuring ideas were facilitated by [OpenAI's ChatGPT](https://chatgpt.com/). _For educational and research purposes only._
 
-### Feedback or suggestions? Feel free to open an issue or discussion. Any collaboration is greatly encouraged.⭐ This repo If you found it helpful!
+## Feedback / Contributions
+Feedback or suggestions? Feel free to open an issue or discussion. Any collaboration is greatly encouraged. **⭐ This repo If you found it helpful!**
